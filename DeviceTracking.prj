@@ -17,7 +17,7 @@
     <param.exclude.filters>.git/
 .gitattributes
 .gitignore
-add.jpg
+add.png
 DeviceTracking_dev.mlapp
 Thumbs.db</param.exclude.filters>
     <param.exclude.pcodedmfiles>true</param.exclude.pcodedmfiles>
@@ -88,7 +88,7 @@ Thumbs.db</param.exclude.filters>
     </fileset.rootdir>
     <fileset.rootfiles>
       <file>${PROJECT_ROOT}\ActigraphLogo.png</file>
-      <file>${PROJECT_ROOT}\DeviceTracking_prod.mlapp</file>
+      <file>${PROJECT_ROOT}\DeviceTracking.mlapp</file>
       <file>${PROJECT_ROOT}\information-button.png</file>
       <file>${PROJECT_ROOT}\README.md</file>
     </fileset.rootfiles>
